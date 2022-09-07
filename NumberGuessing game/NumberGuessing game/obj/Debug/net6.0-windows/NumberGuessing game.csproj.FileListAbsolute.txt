@@ -1,0 +1,17 @@
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\bin\Debug\net6.0-windows\NumberGuessing game.exe
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\bin\Debug\net6.0-windows\NumberGuessing game.deps.json
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\bin\Debug\net6.0-windows\NumberGuessing game.runtimeconfig.json
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\bin\Debug\net6.0-windows\NumberGuessing game.dll
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\bin\Debug\net6.0-windows\NumberGuessing game.pdb
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.csproj.AssemblyReference.cache
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing_game.Form1.resources
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.csproj.GenerateResource.cache
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.AssemblyInfoInputs.cache
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.AssemblyInfo.cs
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.csproj.CoreCompileInputs.cache
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.dll
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\refint\NumberGuessing game.dll
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.pdb
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\NumberGuessing game.genruntimeconfig.cache
+C:\Users\Kushal\Desktop\NumberGuessing game\NumberGuessing game\obj\Debug\net6.0-windows\ref\NumberGuessing game.dll
